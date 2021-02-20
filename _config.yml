@@ -16,8 +16,8 @@ author: Siddhartha Nambiar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - National Center for Human Factors in Healthcare: "https://www.medicalhumanfactors.net/"
+    - Build websites like this: "https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages"
 
 # --- Logo --- #
 
