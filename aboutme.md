@@ -1,20 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to talk to me
+title: About Me
+subtitle: Who am I and what am I doing here?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-### The Truth
-
-I'm not actually Inigo Montoya. I wish I was, though. I'll update this page very soon! In the meantime, do check out The Princess Bride. 
+Hi there! I've you're on this page, you're likely trying to learn a little more about who I am, what I do, and why I'm here. I promise that I'll update this website with all of that information very soon!
