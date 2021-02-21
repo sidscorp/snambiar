@@ -6,5 +6,3 @@
 **If you'd like to reach out, please contact me [via email](mailto:Siddhartha.Nambiar@MedStar.Net)**
 
 **Please feel free to check out my <a href="https://github.com/sidscorp/snambiar/blob/main/docs/Nambiar_CV.pdf" target="_blank">CV (linked here)</a> if you'd like to learn more while this website is under construction**
-
-<a href="pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
