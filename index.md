@@ -5,4 +5,4 @@
 
 **If you'd like to reach out, please contact me [via email](mailto:Siddhartha.Nambiar@MedStar.Net)**
 
-**Please feel free to check out my [CV (linked here)](docs/Nambiar_CV.pdf) if you'd like to learn more while this website is under construction
+**Please feel free to check out my [CV (linked here)](/docs/Nambiar_CV.pdf) if you'd like to learn more while this website is under construction**
