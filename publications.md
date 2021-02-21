@@ -6,8 +6,8 @@ subtitle: Evidence that I know what I'm talking about
 
 ## Refereed Journal Publications
 
-### [2020] Objective measures of workload in healthcare: a narrative review
-#### International Journal of Health Care Quality Assurance
+#### [2020] Objective measures of workload in healthcare: a narrative review
+##### International Journal of Health Care Quality Assurance
 > **Authors**: Daniela Fishbein, **Siddhartha Nambiar**, Kendall McKenzie, Maria Mayorga, Kristen Miller, Kevin Tran, Laura Schubel, Joseph Agor, Tracy Kim, Muge Capan
 >
 >> **About**: Workload is a critical concept in the evaluation of performance and quality in healthcare systems, but its definition relies on the perspective (e.g. individual clinician-level vs unit-level workload) and type of available metrics (e.g. objective vs subjective measures). The purpose of this paper is to provide an overview of objective measures of workload associated with direct care delivery in tertiary healthcare settings, with a focus on measures that can be obtained from electronic records to inform operationalization of workload measurement.
