@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Under Construction
+subtitle: A summary of my work
 ---
 
 ## Past Projects
@@ -10,7 +10,7 @@ subtitle: Under Construction
 ##### Office of the National Coordinator for Health Information Technology
 > **Role**: Co-Investigator
 >
->> **About**: This research aims to better understand the current state of open source, health IT tools through a rigorous evaluation including a landscape analysis including qualitative data collection and objective usability evaluations. The end goal of this work was to develop and optimize health IT infrastructure using enhanced data factory platforms (FHIR Factories), a more effective platform that provides researchers the ability to easily access high-quality data in standardized formats and leverage advanced analytic tools for more effective and efficient research. My role on this project was to _____
+>> **About**: This research aims to better understand the current state of open source, health IT tools through a rigorous evaluation including a landscape analysis including qualitative data collection and objective usability evaluations. The end goal of this work was to develop and optimize health IT infrastructure using enhanced data factory platforms (FHIR Factories), a more effective platform that provides researchers the ability to easily access high-quality data in standardized formats and leverage advanced analytic tools for more effective and efficient research.
 
 #### Wearable Physiologic Monitor with Real-time Continuous Data Acquisition and Analysis for Early Detection of COVID 19 Infection 
 ##### Department of Defense (Medical Technology Enterprise Consortium)
