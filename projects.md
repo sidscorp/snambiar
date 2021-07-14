@@ -6,6 +6,11 @@ subtitle: A summary of my work
 
 ## Past Projects
 
+#### Vaccine Clinic Scheduling & Staffing Calculator
+> **Role**: Scientist and Developer
+>
+>> **About**: We developed a decision support tool to assist stakeholders involved in designing COVID-19 vaccination clinics to improve scheduling and staffing protocols based on operational and resource constraints by anyone with access to the internet and a web browser without the need for domain-specific knowledge or specialized software. This allows tool use by a larger section of the population which is vital during the current COVID-19 pandemic, as there currently exists several decentralized vaccination clinics within the US, each determining operational parameters independently of the rest of the distribution network. The tool can be accessed online at <a href="http://vaccine-calculator.snambiar.co" target="_blank"> this link</a>
+
 #### FHIR Factories – An Evolving Digital Architecture to Scale Health Research
 > **Funding Agency**: Office of the National Coordinator for Health Information Technology
 > **Role**: Co-Investigator
@@ -16,7 +21,7 @@ subtitle: A summary of my work
 > **Funding Agency**: Department of Defense (Medical Technology Enterprise Consortium)
 > **Role**: Principal Investigator (MedStar Health Sub-award)
 >
->> **About**: This project will develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections.  My role on this project was to _____
+>> **About**: This project will develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections. 
 
 #### District of Columbia Safe Babies Safe Moms Initiative 
 > **Funding Agency**: A. James & Alice B. Clark Foundation
