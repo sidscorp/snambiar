@@ -1,5 +1,5 @@
 # Sidd Nambiar
-> Please note that this website is under construction
+> Data Scientist & Health Systems Engineer
 
 **Hi!** I'm a research and data scientist . My area of research and expertise lies at the intersection of operations research, health systems engineering, and health policy & management. More specifically, I'm interested in modeling and predicting societal, health, and behavioral outcomes associated with various health conditions and diseases.
 
