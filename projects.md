@@ -21,7 +21,7 @@ subtitle: Please reach out if you'd like to discuss any of these in detail.
 > **Funding Agency**: Department of Defense (Medical Technology Enterprise Consortium)
 > **Role**: Principal Investigator (MedStar Health Sub-award)
 >
->> **About**: This project is a subcontract awarded to MedStar Health from Computer Technology Associates (CTA) and Sempulse Corporation and aims to develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections. As site co-PI (along with Dr. Jessica Galarraga), my role was in leading overall development and management of the patient recruitment phase, and in providing subject matter expertise in the development of the ML/AI algorithms. 
+>> **About**: This project is a subcontract awarded to MedStar Health through Computer Technology Associates (CTA) and Sempulse Corporation, and aims to develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections. As site co-PI (along with Dr. Jessica Galarraga), my role was in leading overall development and management of the patient recruitment phase, and in providing subject matter expertise in the development of the ML/AI algorithms. 
 
 #### District of Columbia Safe Babies Safe Moms Initiative 
 > **Funding Agency**: A. James & Alice B. Clark Foundation
