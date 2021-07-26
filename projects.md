@@ -21,7 +21,7 @@ subtitle: Please reach out if you'd like to discuss any of these in detail.
 > **Funding Agency**: Department of Defense (Medical Technology Enterprise Consortium)
 > **Role**: Principal Investigator (MedStar Health Sub-award)
 >
->> **About**: This project is a subcontract awarded to MedStar Health from Computer Technology Associates (CTA) and Sempulse Corporation and aims to develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections. 
+>> **About**: This project is a subcontract awarded to MedStar Health from Computer Technology Associates (CTA) and Sempulse Corporation and aims to develop modern artificial intelligence-based computer screening algorithms trained to identify variations in patterns in continuously monitored vital sign data for accurate, early detection and isolation of persons with unrecognized SARS-CoV-2 infections. As site co-PI (along with Dr. Jessica Galarraga), my role was in leading overall development and management of the patient recruitment phase, and in providing subject matter expertise in the development of the ML/AI algorithms. 
 
 #### District of Columbia Safe Babies Safe Moms Initiative 
 > **Funding Agency**: A. James & Alice B. Clark Foundation
@@ -33,7 +33,7 @@ subtitle: Please reach out if you'd like to discuss any of these in detail.
 > **Funding Agency**: Office of the National Coordinator for Health Information Technology
 > **Role**: Co-Investigator
 >
->> **About**: This project is a grant awarded to MedStar Health Research Institute (PI: Dr. Kristen Miller) leverages novel health IT architecture to transform a stand-alone calculator into an active cross-platform surveillance clinical decision support tool that integrates into clinician workflow. We will build and deploy a SMART on FHIR application (“Mobilizing Million Hearts”) that utilizes the risk factors of the Million Hearts Atherosclerotic Cardiovascular Disease (ASCVD) risk estimator and incorporates clinician user needs to inform clinical knowledge at the point of care.
+>> **About**: This project is a grant awarded to MedStar Health Research Institute (PI: Dr. Kristen Miller) leverages novel health IT architecture to transform a stand-alone calculator into an active cross-platform surveillance clinical decision support tool that integrates into clinician workflow. The project teaM built and deployed a SMART on FHIR application (“Mobilizing Million Hearts”) that utilizes the risk factors of the Million Hearts Atherosclerotic Cardiovascular Disease (ASCVD) risk estimator and incorporates clinician user needs to inform clinical knowledge at the point of care. My role on this project was in evaluating usage patterns of this application, and to assess whether the application was able to help improve patient health.
 
 #### SEPSIS: Sepsis Early Prediction Support Implementation System
 > **Funding Agency**: National Science Foundation, Smart and Connected Health
