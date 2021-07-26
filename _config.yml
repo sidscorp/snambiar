@@ -15,7 +15,7 @@ author: Siddhartha Nambiar
 
 navbar-links:
   Projects: "projects"
-  Talks and Publications: "publications"
+  Published Work: "publications"
   Resources:
     - Build websites like this: "https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages"
    #About Me: "aboutme"
