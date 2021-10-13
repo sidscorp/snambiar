@@ -1,7 +1,8 @@
 # Sidd Nambiar
-> Data Scientist & Health Systems Engineer
+> Data Scientist
+> National Institutes of Health, All of Us Research Program
 
-**Hi!** I'm a research and data scientist. My background is in Industrial and Systems Engineering with a specialization in healthcare systems and processes. During my time in Graduate School at North Carolina State University and as a PostDoc at MedStar Health Research Institute, I have been involved in efforts that use operations research (OR), data science, and analytics to improve access to care, better identify patient health conditions, and inform public policies. Most of my work has had the underlying theme of incorporating the ‘human’ element in OR/Analytics models to influence policy on a large scale.
+**Hi!** I'm a research and Data Scientist, currently supporting the National Institutes of Health's (NIH) All of Us (AoU) Research Program through Covalent Solutions, LLC. My background is in Industrial and Systems Engineering with a specialization in healthcare systems and processes. During my time in Graduate School at North Carolina State University and as a PostDoc at MedStar Health Research Institute, I have been involved in efforts that use operations research (OR), data science, and analytics to improve access to care, better identify patient health conditions, and inform public policies. Most of my work has had the underlying theme of incorporating the ‘human’ element in OR/Analytics models to influence policy on a large scale.
 
 I strongly ascribe to the ideology that factors that influence decisions made by algorithms be visible and transparent to those who use them, and to those who are affected by systems that employ them. I have a deep interest in promoting algorithmic hygiene and in working with multiple stakeholders to ensure that the models we develop (OR/ML/AL) are ethical and free of discrimination.
 
